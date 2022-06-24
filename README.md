@@ -1,4 +1,4 @@
-# HTML CSS - Tutorial
+# HTML - Tutorial
 
 Tutorials by NetNija (https://netninja.dev/courses)
 
